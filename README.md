@@ -4,6 +4,7 @@
 
 ## :book: 읽고 있는 책 목록
 
+- [스프링 인 액션 5판](http://www.yes24.com/Product/Goods/90180239)
 - [Node.js 교과서](http://www.yes24.com/Product/Goods/91213376)
 - [Do it! Vue.js 입문](http://www.yes24.com/Product/Goods/58206961)
 
