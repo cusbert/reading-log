@@ -9,7 +9,8 @@
 
 ## :book: 읽는 중
 
-- [21/12 ~ ][스프링 부트와 AWS로 혼자 구현하는 웹 서비스](http://www.yes24.com/Product/Goods/83849117)
-- [21/11 ~ ][아파치 카프카 애플리케이션 프로그래밍 with 자바](http://www.yes24.com/Product/Goods/99122569)
+- [21/11 ~ ] [아파치 카프카 애플리케이션 프로그래밍 with 자바](http://www.yes24.com/Product/Goods/99122569)
 
 ## :closed_book: 다 읽은 책
+
+- [21/12 ~ 22/01] [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](http://www.yes24.com/Product/Goods/83849117)
